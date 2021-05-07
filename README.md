@@ -24,6 +24,7 @@ I am a passionate self-taught frontEnd web developer from Pakistan and based in 
 <a href="https://github.com/thenomanahmed">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenomanahmed&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
+
 <a href="https://github.com/thenomanahmed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenomanahmed&layout=compact&theme=material-palenight" />
 </a>
