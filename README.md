@@ -3,7 +3,7 @@
 
 I am a passionate self-taught frontEnd web developer from Pakistan and based in Finland .
 
-- 🔭 I’m currently working at agency [Ikius Oy](https://Ikius.com)
+- 🔭 I’m currently working at DFDS
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about anything [Twitter](https://twitter.com/TheNomanAhmed)
 
