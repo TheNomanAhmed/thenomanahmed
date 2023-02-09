@@ -1,5 +1,5 @@
 ### Hi I am Noman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Twitter Follow](https://img.shields.io/twitter/follow/thenomanahmed?style=social)](https://twitter.com/intent/follow?screen_name=TheNomanAhmed) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVRcObUOJxpNYiPlgzkUUkA?label=Total%20views%20on%20my%20channel&style=social)](https://www.youtube.com/channel/UCVRcObUOJxpNYiPlgzkUUkA?sub_confirmation=1)
+
 
 I am a passionate self-taught frontEnd web developer from Pakistan and based in Finland .
 
